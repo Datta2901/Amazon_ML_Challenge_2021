@@ -1,0 +1,1 @@
+This ipynb file is used to divide the given training set into two halfs inorder to upload into git using git lfs
